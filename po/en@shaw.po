@@ -14,12 +14,12 @@ msgstr ""
 
 #. [message]: speaker=narrator
 #: Troubled_Times/macros/misc.cfg:74
-msgid "New leaen@shawr takes command"
+msgid "New leader takes command"
 msgstr ""
 
 #. [message]: speaker=narrator
 #: Troubled_Times/macros/misc.cfg:75
-msgid " has been choosen as new leaen@shawr."
+msgid " has been choosen as new leader."
 msgstr ""
 
 #. [message]: speaker=narrator
@@ -40,7 +40,7 @@ msgstr ""
 
 #. [message]: speaker=unit
 #: Troubled_Times/macros/misc.cfg:174
-msgid "I feel that every elf leaen@shawr is suden@shawnly moving a bit faster."
+msgid "I feel that every elf leader is suddenly moving a bit faster."
 msgstr ""
 
 #. [multiplayer]: id=TT_01_attack_to_elf_city
@@ -48,12 +48,12 @@ msgstr ""
 msgid "Troubled Times - Attack to the Elf City"
 msgstr ""
 
-#. [sien@shaw]: type=Orcish Slayer
+#. [side]: type=Orcish Slayer
 #: Troubled_Times/scenarios/01_attack_to_the_elf_city.cfg:41
 msgid "Assassins"
 msgstr ""
 
-#. [sien@shaw]: type=Orcish Slayer
+#. [side]: type=Orcish Slayer
 #: Troubled_Times/scenarios/01_attack_to_the_elf_city.cfg:45
 msgid "Grunt"
 msgstr ""
@@ -68,8 +68,8 @@ msgstr ""
 #. [message]: speaker=narrator
 #: Troubled_Times/scenarios/01_attack_to_the_elf_city.cfg:108
 msgid ""
-"There was a little elf city en@shawep in the forests. The people were having good "
-"times, but suden@shawnly something happened..."
+"There was a little elf city deep in the forests. The people were having good "
+"times, but suddenly something happened..."
 msgstr ""
 
 #. [message]: type=Elvish High Lord
@@ -112,7 +112,7 @@ msgstr ""
 #: Troubled_Times/scenarios/06_the_siege_of_tarqensis.cfg:180
 #: Troubled_Times/scenarios/02_the_castle.cfg:100
 #: Troubled_Times/scenarios/02_the_castle.cfg:149
-msgid "Death of an elf leaen@shawr"
+msgid "Death of an elf leader"
 msgstr ""
 
 #. [objective]: condition=lose
@@ -132,12 +132,12 @@ msgstr ""
 msgid "Troubled Times - The Castle"
 msgstr ""
 
-#. [sien@shaw]: type=Orcish Warrior
+#. [side]: type=Orcish Warrior
 #: Troubled_Times/scenarios/02_the_castle.cfg:41
 msgid "Rok"
 msgstr ""
 
-#. [sien@shaw]: type=Orcish Sovereign
+#. [side]: type=Orcish Sovereign
 #: Troubled_Times/scenarios/02_the_castle.cfg:63
 msgid "Ruk"
 msgstr ""
@@ -174,7 +174,7 @@ msgstr ""
 
 #. [objective]: condition=win
 #: Troubled_Times/scenarios/02_the_castle.cfg:145
-msgid "Kill the orc leaen@shawrs"
+msgid "Kill the orc leaders"
 msgstr ""
 
 #. [message]: speaker=narrator
@@ -202,13 +202,13 @@ msgstr ""
 msgid "Troubled Times - Tarq'ensis"
 msgstr ""
 
-#. [sien@shaw]: type=Elvish High Lord
+#. [side]: type=Elvish High Lord
 #: Troubled_Times/scenarios/03_tarqensis.cfg:44
 #: Troubled_Times/scenarios/06_the_siege_of_tarqensis.cfg:36
 msgid "High Lord"
 msgstr ""
 
-#. [sien@shaw]: type=Elvish High Lord
+#. [side]: type=Elvish High Lord
 #: Troubled_Times/scenarios/03_tarqensis.cfg:47
 msgid "Hight Elves"
 msgstr ""
@@ -279,10 +279,10 @@ msgstr ""
 msgid "Let's hurry then."
 msgstr ""
 
-#. [message]: type=Elvish Shyen@shaw
+#. [message]: type=Elvish Shyde
 #: Troubled_Times/scenarios/03_tarqensis.cfg:198
 msgid ""
-"Wait. We have an altar that can help you with en@shawveloping skills. Maybe you "
+"Wait. We have an altar that can help you with developing skills. Maybe you "
 "should try to use it."
 msgstr ""
 
@@ -306,28 +306,28 @@ msgstr ""
 msgid "Troubled Times - The mountain"
 msgstr ""
 
-#. [sien@shaw]: type=Ancient Wose
+#. [side]: type=Ancient Wose
 #: Troubled_Times/scenarios/04_the_mountain.cfg:41
 #: Troubled_Times/scenarios/05_on_the_top_of_the_mountain.cfg:38
 msgid "Wose"
 msgstr ""
 
-#. [sien@shaw]: type=Ancient Wose
+#. [side]: type=Ancient Wose
 #: Troubled_Times/scenarios/04_the_mountain.cfg:47
 #: Troubled_Times/scenarios/05_on_the_top_of_the_mountain.cfg:44
 msgid "Ancient Wose"
 msgstr ""
 
-#. [sien@shaw]: type=Drake Enforcer
-#. [sien@shaw]: type=Sky Drake
-#. [sien@shaw]: type=Drake Warrior
+#. [side]: type=Drake Enforcer
+#. [side]: type=Sky Drake
+#. [side]: type=Drake Warrior
 #: Troubled_Times/scenarios/04_the_mountain.cfg:63
 #: Troubled_Times/scenarios/05_on_the_top_of_the_mountain.cfg:60
 #: Troubled_Times/scenarios/05_on_the_top_of_the_mountain.cfg:83
 msgid "Drakes"
 msgstr ""
 
-#. [unit]: type=Cave Spien@shawr
+#. [unit]: type=Cave Spider
 #: Troubled_Times/scenarios/04_the_mountain.cfg:89
 msgid "Pörrö"
 msgstr ""
@@ -372,7 +372,7 @@ msgstr ""
 
 #. [objective]: condition=win
 #: Troubled_Times/scenarios/04_the_mountain.cfg:191
-msgid "Kill the Drake leaen@shawr"
+msgid "Kill the Drake leader"
 msgstr ""
 
 #. [message]
@@ -389,7 +389,7 @@ msgstr ""
 #. [message]
 #: Troubled_Times/scenarios/04_the_mountain.cfg:294
 msgid ""
-"Thanks for your help. There are more drakes on other sien@shaw of that mountain. "
+"Thanks for your help. There are more drakes on other side of that mountain. "
 "Could you kill them?"
 msgstr ""
 
@@ -405,7 +405,7 @@ msgstr ""
 
 #. [objective]: condition=win
 #: Troubled_Times/scenarios/05_on_the_top_of_the_mountain.cfg:104
-msgid "Kill the Drake leaen@shawrs"
+msgid "Kill the Drake leaders"
 msgstr ""
 
 #. [message]
@@ -430,13 +430,13 @@ msgstr ""
 msgid "Troubled Times - The Siege of Tarq'ensis"
 msgstr ""
 
-#. [sien@shaw]: type=Elvish High Lord
+#. [side]: type=Elvish High Lord
 #: Troubled_Times/scenarios/06_the_siege_of_tarqensis.cfg:38
 msgid "High Elves"
 msgstr ""
 
-#. [sien@shaw]: type=Orcish Warlord
-#. [sien@shaw]: type=Orcish Sovereign
+#. [side]: type=Orcish Warlord
+#. [side]: type=Orcish Sovereign
 #: Troubled_Times/scenarios/06_the_siege_of_tarqensis.cfg:65
 #: Troubled_Times/scenarios/06_the_siege_of_tarqensis.cfg:84
 msgid "Besieging Orcs"
@@ -566,22 +566,22 @@ msgstr ""
 
 #. [message]
 #: Troubled_Times/scenarios/08_highlands.cfg:126
-msgid "Now we'll en@shawstory all"
+msgid "Now we'll destory all"
 msgstr ""
 
 #. [message]: type=tervar
 #: Troubled_Times/scenarios/08_highlands.cfg:130
-msgid "Who has maen@shaw it"
+msgid "Who has made it"
 msgstr ""
 
 #. [message]: speaker=unit
 #: Troubled_Times/scenarios/08_highlands.cfg:145
-msgid "this rock is too huge to move or en@shawstory"
+msgid "this rock is too huge to move or destory"
 msgstr ""
 
 #. [message]: type=Amiliae
 #: Troubled_Times/scenarios/08_highlands.cfg:149
-msgid "We need the Maul of Elemtrus to en@shawstory it"
+msgid "We need the Maul of Elemtrus to destory it"
 msgstr ""
 
 #. [message]: speaker=unit
@@ -654,9 +654,9 @@ msgstr ""
 msgid "Troubled Times - The Maul of Elementus"
 msgstr ""
 
-#. [sien@shaw]: type=Troll Warrior
-#. [sien@shaw]: type=Troll Shaman
-#. [sien@shaw]: type=Goblin Rouser
+#. [side]: type=Troll Warrior
+#. [side]: type=Troll Shaman
+#. [side]: type=Goblin Rouser
 #: Troubled_Times/scenarios/10_the_maul_of_elementus.cfg:49
 #: Troubled_Times/scenarios/10_the_maul_of_elementus.cfg:68
 #: Troubled_Times/scenarios/10_the_maul_of_elementus.cfg:87
@@ -683,7 +683,7 @@ msgstr ""
 
 #. [message]: speaker=unit
 #: Troubled_Times/scenarios/10_the_maul_of_elementus.cfg:183
-msgid "I get it. Now we can go to en@shawstory the rock and orcs"
+msgid "I get it. Now we can go to destory the rock and orcs"
 msgstr ""
 
 #. [multiplayer]: id=TT_11_the_last_battle
@@ -693,7 +693,7 @@ msgstr ""
 
 #. [objective]: condition=win
 #: Troubled_Times/scenarios/11_the_last_battle.cfg:153
-msgid "Defeat all enemy leaen@shawrs"
+msgid "Defeat all enemy leaders"
 msgstr ""
 
 #. [objective]: condition=win
@@ -703,15 +703,15 @@ msgstr ""
 
 #. [message]: speaker=unit
 #: Troubled_Times/scenarios/11_the_last_battle.cfg:218
-msgid "the rock is en@shawstroyed, now we just need to kill the enemies"
+msgid "the rock is destroyed, now we just need to kill the enemies"
 msgstr ""
 
 #. [message]
 #: Troubled_Times/scenarios/11_the_last_battle.cfg:222
-msgid "You en@shawmolished my work of years."
+msgid "You demolished my work of years."
 msgstr ""
 
 #. [message]
 #: Troubled_Times/scenarios/11_the_last_battle.cfg:277
-msgid "Now we only need to en@shawstory the stone"
+msgid "Now we only need to destory the stone"
 msgstr ""
