@@ -52,3 +52,9 @@ not a lot to do, here comes it,
 - overal tweaking
  ***
 - fixed a deprecated macro
+ ***
+- leaders do not respawn any more (breaks future message)
+- no experience bonus for finishing early (was causing OOS)
+- make 2nd scenario easier
+
+--------- trewe sjrs456 at yahoo dot fr ---------------------
